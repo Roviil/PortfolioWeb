@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#btnst {
+	width: 104px;
+	height: 37px;
+}
+
+#pbtn { /*페이징 버튼 디자인 */
+	color: black;
+	background-color: white;
+	width: 40px;
+}
+
+#pbtn_next {
+	color: black;
+	background-color: white;
+	width: 40px;
+}
+
+a, a:hover {
+		color: #000000;
+		text-decoration: none;
+	}
